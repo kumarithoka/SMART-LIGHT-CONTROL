@@ -38,3 +38,9 @@ This project also teaches important IoT concepts such as cloud communication, ne
 
 Overall, this Smart Light Control project is an excellent starting point for anyone looking to explore IoT. It offers hands-on experience in coding, circuit design, mobile app development, and cloud-based device communication. By the end of the project, learners will have not only built a functioning smart system but also gained valuable insight into how the Internet of Things is shaping the future of technology.
 
+
+
+OUTPUT:
+
+
+https://private-user-images.githubusercontent.com/212581751/445708049-ff1ddb15-7503-4950-b008-d26ed3bb7e78.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3NTg2NzIsIm5iZiI6MTc0Nzc1ODM3MiwicGF0aCI6Ii8yMTI1ODE3NTEvNDQ1NzA4MDQ5LWZmMWRkYjE1LTc1MDMtNDk1MC1iMDA4LWQyNmVkM2JiN2U3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMFQxNjI2MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01N2QwY2FmNjQzNjhkYTcyNzBiZjU0NWVhMWQ1N2Y4MjU2YTk4MTNhODgyNzU1ZDA3Y2JlMDc3MjBkNzRiMjRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yL0K_uWy7ew4IgocsEYnKJyatrzMe426-6OGpvPyUoU
